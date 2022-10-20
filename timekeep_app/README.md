@@ -4,7 +4,7 @@ This is an app to keep time. It keeps track of the time between presses of the b
 
 My purpose for creating this app is to have a simple way to keep track of time at work.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/2KNBfqh2el0)
 
 # Development Environment
 
